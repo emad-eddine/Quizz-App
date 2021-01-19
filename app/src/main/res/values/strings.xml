@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="click_me">click me</string>
+    <string name="app_title">QUIZ</string>
+    <string name="trueBtn">True</string>
+    <string name="falseBtn">False</string>
+    <string name="counter">0 of 930</string>
+    <string name="questionText">question</string>
+    <string name="backimg">backImg</string>
+    <string name="nextimg">nextImg</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="name">name</string>
+    <string name="high_score"></string>
+</resources>
